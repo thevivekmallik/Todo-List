@@ -4,7 +4,7 @@
 ## .features
 - [x] Show tasks list
 - [x] Add new task
-- [ ] Complete task
+- [x] Complete task
 - [x] Delete task
 - [x] Edit task
 - [x] Clear all tasks
